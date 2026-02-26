@@ -204,12 +204,11 @@ Site institucional do escritório Resolvoo com foco em captação orgânica e pr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=barbosamaker&show_icons=true&theme=transparent&hide_border=true&title_color=00e5bf&icon_color=8b5cf6&text_color=e8e8f0&bg_color=0a0a0f&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosamaker&layout=compact&theme=transparent&hide_border=true&title_color=00e5bf&text_color=e8e8f0&bg_color=0a0a0f" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barbosamaker&theme=transparent&hide_border=true&ring=00e5bf&fire=8b5cf6&currStreakLabel=00e5bf&sideLabels=e8e8f0&dates=555570&background=0a0a0f" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barbosamaker&theme=transparent&hide_border=true&ring=00e5bf&fire=8b5cf6&currStreakLabel=00e5bf&sideLabels=e8e8f0&dates=555570&background=0a0a0f" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barbosamaker&theme=react-dark&hide_border=true&bg_color=0a0a0f&color=00e5bf&line=8b5cf6&point=00e5bf&area=true&area_color=8b5cf6" width="100%" />
 
 </div>
 

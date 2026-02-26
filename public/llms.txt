@@ -1,0 +1,141 @@
+# Barbosa.maker
+
+> Freelancer brasileiro especializado em landing pages de alta conversao, automacoes inteligentes e sistemas com IA. Solucoes digitais rapidas, modernas e sob medida para negocios.
+
+## Sobre
+
+Barbosa.maker e a marca pessoal de Luan Barbosa — advogado de formacao que fundou duas legaltechs, protocolou mais de 6.000 processos judiciais em todos os 27 estados do Brasil, e entao pivotou para tecnologia. Hoje constroi solucoes digitais que convertem, automatizam e escalam.
+
+- Nome: Luan Barbosa
+- Marca: Barbosa.maker
+- Localizacao: Foz do Iguacu, PR — Brasil
+- Atuacao: Remoto, mundial
+- Email: barbosa.maker@gmail.com
+- WhatsApp: +55 45 99995-7851
+- Site: https://barbosamaker.com.br
+- Instagram: https://instagram.com/barbosa.maker
+- GitHub: https://github.com/barbosamaker
+- Workana: https://workana.com/freelancer/483fdac1b90ee58593f8a4308ed85a3a
+
+## Servicos
+
+### LP Express — R$ 500 a R$ 800
+Landing page responsiva de alta conversao otimizada para captura de leads. Entrega em 24 a 72 horas.
+Stack: React, Tailwind CSS, Cloudflare Pages.
+
+### LP + Automacao — R$ 1.000 a R$ 1.500
+Landing page integrada com CRM, WhatsApp, email marketing e formularios automaticos. Entrega em 3 a 5 dias.
+Stack: React, n8n, Supabase, WhatsApp API.
+
+### Web App / Chatbot — R$ 1.500 a R$ 2.500
+Sistemas completos com painel admin, chatbots com IA e integracoes avancadas. Entrega em 5 a 7 dias.
+Stack: React, Supabase, IA Generativa, Node.js.
+
+## Stack Tecnica
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Backend e Dados
+- Supabase (PostgreSQL)
+- Node.js
+- Cloudflare Workers
+- Vercel
+
+### IA e Automacao
+- IA Generativa (Claude, modelos LLM)
+- n8n (workflow automation)
+- Python
+- WhatsApp Business API
+- Webhooks e APIs REST
+
+## Numeros
+
+- 3.315+ clientes atendidos
+- 16+ automacoes em producao
+- 3 assistentes IA rodando 24/7
+- 6.000+ processos judiciais protocolados (legaltech)
+- Atuacao em todos os 27 estados brasileiros
+
+## Portfolio — Projetos em Producao
+
+### Calculadora de Correcao Monetaria
+URL: https://barbosamaker.com.br/portfolio/calculadora-correcao-monetaria/
+Calculadora profissional com API do Banco Central, multiplos autores, Lei 14.905/2024, export PDF/DOCX.
+Stack: React, API BCB, TypeScript, PDF.
+
+### Calculadora INSS — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/calculadora-garantedireito/
+Calculadora de honorarios para beneficios do INSS com formulario inteligente e integracao WhatsApp.
+Stack: React, Tailwind CSS, Zod.
+
+### Negativacao v2 — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/negativacao-v2/
+Landing page dark de alta conversao para captura de leads de negativacao indevida. Mais de 2.400 leads captados em 3 meses.
+Stack: React, Tailwind CSS, Cloudflare Workers, WhatsApp.
+
+### Onibus — Resolvoo
+URL: https://barbosamaker.com.br/portfolio/onibus-resolvoo/
+Landing page mobile-first para direito do passageiro de onibus.
+Stack: React, Tailwind CSS, n8n.
+
+### Ticket Scale — Plataforma
+URL: https://barbosamaker.com.br/portfolio/ticket-scale/
+Plataforma completa de vendas de ingressos com dashboard administrativo e checkout Stripe.
+Stack: React, Supabase, Stripe, Payments.
+
+### CapiChat — SaaS
+URL: https://barbosamaker.com.br/portfolio/capichat/
+Landing page de venda para produto SaaS de chatbot com IA. Multisecao com checkout integrado.
+Stack: React, Supabase, IA, Stripe.
+
+### Negativacao v1 — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/negativacao-garantedireito/
+Primeira versao ranqueada na primeira pagina do Google para termos de negativacao indevida.
+Stack: React, Cloudflare Workers, SEO.
+
+### Resolvoo — Institucional
+URL: https://resolvoo.com.br/
+Site institucional do escritorio Resolvoo com foco em captacao organica e presenca digital.
+Stack: React, Tailwind CSS, SEO.
+
+## Formacao
+
+- Bacharelado em Direito — Centro Universitario Dinamica das Cataratas (UDC)
+- IA e Automacao — Promovaweb IA Makers
+- IA e Automacao — AI Coders Academy
+- IA e Automacao — Dinastia
+- IA e Automacao — Academia Lendaria
+
+## Processo de Trabalho
+
+1. Briefing — Problema, cenario, publico e objetivos
+2. Proposta — Solucao, prazo, preco e stack
+3. Entrega — Desenvolvimento rapido com cliente envolvido
+4. Suporte — Monitoramento, ajustes e otimizacao continua
+
+## FAQ
+
+### Como funciona o processo de contratacao?
+O processo tem 4 etapas: Briefing (voce conta o problema), Proposta (apresento solucao com prazo e preco), Entrega (desenvolvimento rapido com acompanhamento), e Suporte (monitoramento e otimizacao continua).
+
+### Qual o prazo de entrega de uma landing page?
+Uma LP Express e entregue em 24-48h. Landing pages com automacao integrada levam de 3 a 5 dias. Web apps e chatbots completos de 5 a 7 dias.
+
+### Quanto custa criar uma landing page?
+LP Express: R$ 500-800. LP com automacao (CRM, WhatsApp, email): R$ 1.000-1.500. Web App ou Chatbot com IA: R$ 1.500-2.500.
+
+### Tem suporte apos a entrega?
+Sim. Apos a entrega, monitoro, ajusto e otimizo o projeto. O suporte e continuo para garantir que tudo continue funcionando e evoluindo.
+
+## Links
+
+- Site principal: https://barbosamaker.com.br
+- llms.txt (PT-BR): https://barbosamaker.com.br/llms.txt
+- llms.txt (English): https://barbosamaker.com.br/llms-en.txt
+- Sitemap: https://barbosamaker.com.br/sitemap.xml
+- Robots: https://barbosamaker.com.br/robots.txt

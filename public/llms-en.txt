@@ -1,0 +1,141 @@
+# Barbosa.maker
+
+> Brazilian freelancer specialized in high-conversion landing pages, smart automations and AI-powered systems. Fast, modern and custom-built digital solutions for businesses.
+
+## About
+
+Barbosa.maker is the personal brand of Luan Barbosa — a law school graduate who founded two legaltechs, filed over 6,000 lawsuits across all 27 Brazilian states, and then pivoted to technology. Today he builds digital solutions that convert, automate and scale.
+
+- Name: Luan Barbosa
+- Brand: Barbosa.maker
+- Location: Foz do Iguacu, PR — Brazil
+- Availability: Remote, worldwide
+- Email: barbosa.maker@gmail.com
+- WhatsApp: +55 45 99995-7851
+- Website: https://barbosamaker.com.br
+- Instagram: https://instagram.com/barbosa.maker
+- GitHub: https://github.com/barbosamaker
+- Workana: https://workana.com/freelancer/483fdac1b90ee58593f8a4308ed85a3a
+
+## Services
+
+### LP Express — R$ 500 to R$ 800
+High-conversion responsive landing page optimized for lead capture. Delivered in 24 to 72 hours.
+Stack: React, Tailwind CSS, Cloudflare Pages.
+
+### LP + Automation — R$ 1,000 to R$ 1,500
+Landing page integrated with CRM, WhatsApp, email marketing and automated forms. Delivered in 3 to 5 days.
+Stack: React, n8n, Supabase, WhatsApp API.
+
+### Web App / Chatbot — R$ 1,500 to R$ 2,500
+Full systems with admin panel, AI chatbots and advanced integrations. Delivered in 5 to 7 days.
+Stack: React, Supabase, Generative AI, Node.js.
+
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Backend and Data
+- Supabase (PostgreSQL)
+- Node.js
+- Cloudflare Workers
+- Vercel
+
+### AI and Automation
+- Generative AI (Claude, LLM models)
+- n8n (workflow automation)
+- Python
+- WhatsApp Business API
+- Webhooks and REST APIs
+
+## Key Numbers
+
+- 3,315+ clients served
+- 16+ automations in production
+- 3 AI assistants running 24/7
+- 6,000+ lawsuits filed (legaltech)
+- Operations across all 27 Brazilian states
+
+## Portfolio — Projects in Production
+
+### Monetary Correction Calculator
+URL: https://barbosamaker.com.br/portfolio/calculadora-correcao-monetaria/
+Professional calculator with Central Bank API, multiple authors, Law 14.905/2024, PDF/DOCX export.
+Stack: React, BCB API, TypeScript, PDF.
+
+### INSS Calculator — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/calculadora-garantedireito/
+Fee calculator for INSS benefits with smart form and WhatsApp integration.
+Stack: React, Tailwind CSS, Zod.
+
+### Credit Dispute v2 — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/negativacao-v2/
+Dark high-conversion landing page for credit dispute lead capture. Over 2,400 leads captured in 3 months.
+Stack: React, Tailwind CSS, Cloudflare Workers, WhatsApp.
+
+### Bus Rights — Resolvoo
+URL: https://barbosamaker.com.br/portfolio/onibus-resolvoo/
+Mobile-first landing page for bus passenger rights.
+Stack: React, Tailwind CSS, n8n.
+
+### Ticket Scale — Platform
+URL: https://barbosamaker.com.br/portfolio/ticket-scale/
+Full ticketing platform with admin dashboard and Stripe checkout.
+Stack: React, Supabase, Stripe, Payments.
+
+### CapiChat — SaaS
+URL: https://barbosamaker.com.br/portfolio/capichat/
+Sales landing page for AI chatbot SaaS product. Multi-section with integrated checkout.
+Stack: React, Supabase, AI, Stripe.
+
+### Credit Dispute v1 — GaranteDireito
+URL: https://barbosamaker.com.br/portfolio/negativacao-garantedireito/
+First version ranked on Google's first page for credit dispute terms.
+Stack: React, Cloudflare Workers, SEO.
+
+### Resolvoo — Institutional
+URL: https://resolvoo.com.br/
+Institutional website for Resolvoo law firm focused on organic acquisition and digital presence.
+Stack: React, Tailwind CSS, SEO.
+
+## Education
+
+- Bachelor of Law — Centro Universitario Dinamica das Cataratas (UDC)
+- AI and Automation — Promovaweb IA Makers
+- AI and Automation — AI Coders Academy
+- AI and Automation — Dinastia
+- AI and Automation — Academia Lendaria
+
+## Work Process
+
+1. Briefing — Problem, scenario, audience and goals
+2. Proposal — Solution, timeline, price and stack
+3. Delivery — Fast development with client involvement
+4. Support — Monitoring, adjustments and continuous optimization
+
+## FAQ
+
+### How does the hiring process work?
+The process has 4 steps: Briefing (you describe the problem), Proposal (I present a solution with timeline and price), Delivery (fast development with follow-up), and Support (monitoring and continuous optimization).
+
+### What is the delivery timeline for a landing page?
+An LP Express is delivered in 24-48h. Landing pages with integrated automation take 3 to 5 days. Full web apps and chatbots take 5 to 7 days.
+
+### How much does it cost to create a landing page?
+LP Express: R$ 500-800. LP with automation (CRM, WhatsApp, email): R$ 1,000-1,500. Web App or AI Chatbot: R$ 1,500-2,500.
+
+### Is there support after delivery?
+Yes. After delivery, I monitor, adjust and optimize the project. Support is continuous to ensure everything keeps working and evolving.
+
+## Links
+
+- Main website: https://barbosamaker.com.br
+- llms.txt (PT-BR): https://barbosamaker.com.br/llms.txt
+- llms.txt (English): https://barbosamaker.com.br/llms-en.txt
+- Sitemap: https://barbosamaker.com.br/sitemap.xml
+- Robots: https://barbosamaker.com.br/robots.txt
