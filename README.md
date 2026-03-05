@@ -17,7 +17,7 @@ const barbosa = {
     name: "Luan Barbosa",
     location: "Foz do Iguaçu, PR — Brasil",
     role: "Freelance Tech · Landing Pages · Automações · IA",
-    background: "Ex-advogado → 6.000+ processos → Pivotou pra tech",
+    background: "Advogado → 6.000+ processos → Pivotou pra tech",
     clients_served: "3.315+",
     automations_in_production: "16+",
     ai_assistants_running: 3,
